@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="inuDamage">
+    <output-path>$PROJECT_DIR$/out/artifacts/inuDamage</output-path>
+    <root id="archive" name="inuDamage.jar">
+      <element id="module-output" name="inuDamage" />
+    </root>
+  </artifact>
+</component>
