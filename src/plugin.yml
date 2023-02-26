@@ -1,8 +1,8 @@
 name: inuDamage
 main: cn.inuebisu.inudamage.Main
-version: 1.0
+version: 1.1
 api-version: 1.16
 commands:
   damage:
-    usage: "/damage <playerName> <amount>"
+    usage: "/damage <playerName> <amount> [damageSource]"
     description: "Damage a player."

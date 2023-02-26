@@ -9,8 +9,6 @@ public class Main extends JavaPlugin {
         if (Bukkit.getPluginCommand("damage") != null) {
             Bukkit.getPluginCommand("damage").setExecutor(new CommandManager());
         }
-
         getLogger().info("inuDamage xD");
     }
-
 }
